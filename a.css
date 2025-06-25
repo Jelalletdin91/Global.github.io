@@ -1,0 +1,100 @@
+*{
+   box-sizing: border-box;
+}
+
+body{
+ margin: 0%;
+}
+
+header{
+   background-color: lightgrey;
+   text-align: center;
+   min-height: 80px;
+   padding: 2px;
+   
+}
+
+
+
+
+.navbar{
+   background-color: hsl(0, 0%, 15%);
+   height: 50px;
+}
+
+.knopka{
+   padding: 15px;
+   
+}
+
+#navknopka{
+   color: hsl(0, 0%, 100%);
+   margin: 7px;
+   text-decoration: none;
+}
+#navknopka:hover{
+   background-color: hsl(0, 0%, 100%);
+   color: black;
+}
+
+
+article{
+   min-height:75px;
+}
+
+footer{
+   background-color: hsl(0, 0%, 85%);
+   min-height: 25px;
+}
+
+#swyaz{
+   display: flex;
+   justify-content: space-around;
+   justify-content:end;
+   margin-right: 3px;
+   margin-bottom: 3px;
+ }
+ #swyaz a:hover{
+   background-color: hsl(264, 32%, 9%);
+ }
+ #imo{
+   width: 48px;
+   height: 48px;
+ }
+
+
+
+ #pdf{
+   width:25px ;
+   height: auto;
+   position: relative;
+   left: 25%;
+ }
+
+
+ #diller{
+   display: flex;
+   justify-content:space-between;
+   margin: 5px;
+   justify-content:left;
+   
+  }
+ 
+  .dil{
+   
+    text-decoration: none;
+   color: hsl(0, 0%, 0%);
+   margin: 5px;
+  }
+  .dil:hover{
+   font-size:large;
+  }
+
+  .unilerdiv:hover{
+   background-color: rgb(162, 162, 162);
+
+  }
+  
+
+ 
+  
