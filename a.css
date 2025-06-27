@@ -9,7 +9,7 @@ body{
 header{
    background-color: lightgrey;
    text-align: center;
-   min-height: 20%;
+   min-height: 17%;
    padding: 0.5%;
    
 }
@@ -19,7 +19,7 @@ header{
 
 .navbar{
    background-color: hsl(0, 0%, 15%);
-  min-height: 12%;
+  min-height: 15%;
 }
 
 .knopka{
@@ -31,6 +31,7 @@ header{
    color: hsl(0, 0%, 100%);
    margin: 1%;
    text-decoration: none;
+   
 }
 #navknopka:hover{
    background-color: hsl(0, 0%, 100%);
